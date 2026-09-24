@@ -10,7 +10,7 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     steps:
-      - name: Test stage
+      - name: Test stage 2
         run: |
           echo "Demo test stage"
           sleep 3
