@@ -21,4 +21,4 @@ jobs:
       - name: Build stage
         run: |
           echo "Demo build stage"
-          sleep 3
+          sleep 4
